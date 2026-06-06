@@ -6,3 +6,5 @@ test 8
 test 8 - local
 
 test 9 - merge
+
+test 10 - after merge
