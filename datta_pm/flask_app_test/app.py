@@ -4,3 +4,5 @@ changes to test rebase vs merge
 
 test 8
 test 8 - local
+
+test 9 - merge
