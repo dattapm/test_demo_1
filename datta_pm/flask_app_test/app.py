@@ -9,3 +9,4 @@ test 9 - merge
 
 test 10 - after merge
 test 11 - change from test_feature_1 branch
+test 12 - change from test_feature_2 branch
